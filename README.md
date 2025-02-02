@@ -1,2 +1,3 @@
 # Pennies-for-pay-program
-This is a small C++
+This is a small C++ assignment
+
